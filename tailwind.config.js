@@ -8,6 +8,7 @@ export default {
     "./app/**/*.{js,ts,jsx,tsx}",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  
   theme: {
     container: {
       center: true,
